@@ -38,7 +38,7 @@ Only Google Maps has a similar idea (crowd reports), but it is hidden inside a b
 - **Take:** A short guide when the user opens the app for the first time, so people with no tech knowledge know what to do.
 - **Avoid:** A long tutorial. It should be skippable and short.
 
-## Visuals (3)
+## Visuals (2)
 
 ### 7. Budapest GO (look and colors)
 <img src="img/budapest-go.png" alt="screenshot" width="240">
@@ -49,8 +49,3 @@ Only Google Maps has a similar idea (crowd reports), but it is hidden inside a b
 <img src="img/google-maps.png" alt="screenshot" width="240">
 - **Take:** Big search bar, big icons and strong contrast between text and background. Easy to read at a glance.
 - **Avoid:** Cut-off buttons on the right edge and too many colored markers on the map.
-
-### 9. Apple Maps (route screen)
-<img src="img/apple-maps.png" alt="screenshot" width="240">
-- **Take:** Thick blue route line and big time labels (32 min). A large title and one clear close button in the bottom card.
-- **Avoid:** Many small icons on the map (roadworks, no entry signs) and small gray text.
