@@ -5,7 +5,7 @@
 
 **Student:** Ege Rakunt
 
-**Platform:** Mobile web (responsive), mobile first
+**Platform:** Mobile, web (responsive)
 
 **Note:** Redesign of my own existing app. The old version is used as a benchmark.
 
