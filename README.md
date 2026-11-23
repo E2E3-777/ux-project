@@ -4,7 +4,9 @@
 **Idea:** RideMood helps Budapest public transport passengers check and report how comfortable a vehicle is (AC, crowding, cleanliness), so summer trips are less of a torture.
 
 **Student:** Ege Rakunt
+
 **Platform:** Mobile web (responsive), mobile first
+
 **Note:** Redesign of my own existing app. The old version is used as a benchmark.
 
 ## Status
