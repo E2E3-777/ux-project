@@ -12,4 +12,4 @@
 ## AI use
 | Step | Tool | What for | What I changed |
 |------|------|----------|----------------|
-| 1 | Claude | Summarized the course brief, drafted README, idea.md and references.md | I gave the idea, took the screenshots, chose the references and edited the texts |
+| 1 | Claude | drafted README, idea.md and references.md | I gave the idea, took the screenshots, chose the references and edited the texts |
